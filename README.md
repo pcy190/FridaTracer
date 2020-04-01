@@ -11,12 +11,3 @@
 	3. support double match mode: 'M'(match),'E'(equal); such as: 'M:android.content.', 'E:android.content.ContextImpl'.
 	4. `Import jadx-jobf` can modify classname to sync jadx deobfuscate.
 	5. `Export\Import JSON` can save\restore call tree.
-
-### changelog
-#### 20190926
-	1. [untested\imperfect] support multiprocess.
-	2. merge ui code.
-	3. fix bugs.
-	4. add README :)
-
-#### ....
